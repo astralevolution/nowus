@@ -10,5 +10,5 @@
 git clone https://github.com/astralevolution/nowus
 cd nowus
 npm install
-npm start
+node .
 ```
